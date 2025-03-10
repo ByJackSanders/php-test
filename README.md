@@ -1,4 +1,4 @@
-# PHP Developer Test (Mid-Level)
+# PHP Developer Test
 
 ## Overview
 Welcome to the PHP Developer Test! This test is designed to assess your problem-solving skills and knowledge of PHP, SQL, and API development. The estimated time for completion is **2 hours**.
