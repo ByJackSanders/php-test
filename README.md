@@ -6,7 +6,7 @@ Welcome to the PHP Developer Test! This test is designed to assess your problem-
 ### **Instructions**
 1. **Fork this repository** to your GitHub account.
 2. Complete the tasks outlined below.
-3. Submit your solutions by **creating a pull request**.
+3. Submit your solutions by **sending the link to your repository to your contact.**.
 4. Ensure your code follows **best practices** (clean code, comments, and structure).
 
 ---
