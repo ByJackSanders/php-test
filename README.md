@@ -4,10 +4,9 @@
 Welcome to the PHP Developer Test! This test is designed to assess your problem-solving skills and knowledge of PHP, SQL, and API development. The estimated time for completion is **2 hours**.
 
 ### **Instructions**
-1. **Fork this repository** to your GitHub account.
-2. Complete the tasks outlined below.
-3. Submit your solutions by **sending the link to your repository to your contact.**.
-4. Ensure your code follows **best practices** (clean code, comments, and structure).
+1. Complete the tasks outlined below.
+2. Submit your solutions by **sending the link to your repository to your contact.**.
+3. Ensure your code follows **best practices** (clean code, comments, and structure).
 
 ---
 
